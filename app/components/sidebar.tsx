@@ -92,7 +92,7 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>风游进了海ChatGPT</div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI assistant.
+          WeChat WindToSea AI.
         </div>
         <div className={styles["sidebar-logo"]}>
           <ChatGptIcon />

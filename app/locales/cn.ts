@@ -3,7 +3,7 @@ import { SubmitKey } from "../store/config";
 const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
-    Unauthorized: "当前访问未授权，请联系微信"<code>Deuxsept-NGAI</code>",备注"<code>chatGPT授权</code></br><img src="/wechat.jpg” alt="wechat">,
+    Unauthorized: `当前访问未授权，请联系微信 \ `Deuxsept-NGAI`,备注` \ chatGPT授权 \ `![ddwechat](/wechat.jpg)`,
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
